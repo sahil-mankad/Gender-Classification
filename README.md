@@ -1,6 +1,6 @@
 # Gender-Classification
 
-In this project we train and test a model to 
+In this project we train a model to correctly identify the gender of a person given an image. 
 
 Below is the file structure used for this project.
 
